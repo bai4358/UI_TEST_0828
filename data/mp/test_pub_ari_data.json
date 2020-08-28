@@ -1,0 +1,8 @@
+{
+  "test_pub_ari_02": {
+    "ari_title": "BJ233_TESTNB_{}",
+    "ari_context": "找一份心仪的工作，奥利给！！！",
+    "ari_channel": "人工智能",
+    "expect": "新增文章成功"
+  }
+}
